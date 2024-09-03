@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>PresentPDF.svg</file>
+        <file>info.svg</file>
+        <file>open.svg</file>
+        <file>printPreview.svg</file>
+        <file>printToPDF.svg</file>
+    </qresource>
+    <qresource prefix="/languages">
+        <file>PresentPDF_de_DE.qm</file>
+    </qresource>
+</RCC>
